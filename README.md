@@ -17,8 +17,5 @@ Class Manager contains more features like:
 11. User can add profile picture and edit their profile through edit profile.
 12. User can also change their password if necessary.
 
-## Screenshots
 
-Class Manager uses the multi-user concept of Django where student and teacher are different types of user and have different functionalities.
-Also adding features like notice, messages, Assignment, adding students to the class etc. requires a lot of Django concepts.
 Projects like Class Manager is a great choice to practice your FastAPI skills and test yourself. 
